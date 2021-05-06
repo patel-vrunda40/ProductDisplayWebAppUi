@@ -1,6 +1,14 @@
 # ProductDisplayUi
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+This is a basic functionality app which displays the product detail table. When product name is clicked it shows the popup with details of that specific product.
+It uses bootstrap to display the modal popup and css for styling.
+
+The application have component named "product" which displays the product details table. There is ProductService which communicates witht the backend and Product model which defines Product list.
+
+# Specification
+VS Code - 1.56.0
+npm - 7.11.2
+yarn - 1.22.10
 
 ## Development server
 
